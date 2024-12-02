@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "3e02a8849305ac80a0e36302f461f265",
+      "css": "help-circled-alt",
+      "code": 59392,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "414fe97e4af5215a06d29be0f2cecdf5",
+      "css": "network",
+      "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "1e394b6cd5e0da3e10d8e4f3fe355960",
+      "css": "adult",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
